@@ -7,5 +7,6 @@ public class main {
         System.out.println(00033);
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("test");
     }
 }
