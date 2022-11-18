@@ -5,5 +5,6 @@ public class main {
         System.out.println("idea----git03");
         System.out.println(24);
         System.out.println(00033);
+        System.out.println("master test");
     }
 }
